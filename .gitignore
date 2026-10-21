@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS specific
+.DS_Store
+
+# Streamlit local credentials
+.streamlit/credentials.toml
+Library/
+
+# Matplotlib cache
+.matplotlib/
